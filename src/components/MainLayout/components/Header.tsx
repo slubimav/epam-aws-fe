@@ -33,7 +33,7 @@ export default function Header() {
             underline="none"
             to="/"
           >
-            My Store!
+            AUTODEPLOY Task-2!
           </Link>
         </Typography>
 
