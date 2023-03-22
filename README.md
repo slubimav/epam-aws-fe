@@ -1,3 +1,25 @@
+Self check:
+
+manual deployment - done
+automated deployment - done
+TOTAL - **100** points
+
+Automated deployment using serverless-finch + serverless single-page-app plugins s3/cloudfront resources:
+
+S3 link - http://just-one-autodeploy-bucket-three.s3-website-us-east-1.amazonaws.com/
+
+Cloudfront link - https://d1umma59porlji.cloudfront.net/
+
+---
+
+# How to deploy
+
+1. Clone repo.
+2. Select branch Task-2.
+3. Install dependancies.
+4. sls deploy
+5. npm run client:deploy
+
 # React-shop-cloudfront
 
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
