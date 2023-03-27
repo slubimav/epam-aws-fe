@@ -33,7 +33,7 @@ export default function Header() {
             underline="none"
             to="/"
           >
-            My Store!
+            Product List from API: Task-3!
           </Link>
         </Typography>
 
