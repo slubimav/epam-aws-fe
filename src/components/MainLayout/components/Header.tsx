@@ -33,7 +33,7 @@ export default function Header() {
             underline="none"
             to="/"
           >
-            AUTODEPLOY Task-2!
+            Product List from API: Task-3!
           </Link>
         </Typography>
 
